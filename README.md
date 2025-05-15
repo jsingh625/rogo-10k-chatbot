@@ -8,7 +8,6 @@ A financial metrics and SEC filings analysis tool that enables users to explore 
 - Calculate and visualize over 80 standard financial metrics
 - Compare metrics across multiple companies
 - Analyze trends and year-over-year changes
-- Ask natural language questions about company financials
 - Export metrics to CSV, JSON, or markdown formats
 
 ## Project Structure
